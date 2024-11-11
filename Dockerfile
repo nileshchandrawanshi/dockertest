@@ -1,4 +1,3 @@
-# Use the official NGINX base image
 FROM nginx:latest
 
 # Copy the index.html file from the current directory to the NGINX html directory
